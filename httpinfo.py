@@ -1,3 +1,4 @@
+#Written By A.Z Dhebar Mail : azdhebar@gmail.com
 import socket
 from colorama import *
 s = socket.socket()
